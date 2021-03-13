@@ -1,3 +1,4 @@
+package org.foo
 
 String str1 = "123";
 String str2 = new String("123");
